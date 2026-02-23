@@ -34,6 +34,7 @@ I have hands-on experience with frontend and backend development, as well as dat
 ### 🗄️ Databases
 - SQL
 - SQLite
+- PostgreSQL
 - MongoDB
 - Firebase
 
