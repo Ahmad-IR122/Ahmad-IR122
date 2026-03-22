@@ -58,13 +58,23 @@ Real-time tweet processing and visualization pipeline using:
 - Kibana
 - Apache Spark
 
-Features:
+## 🚀 Features:
 - Real-time data streaming
 - Data processing pipeline
 - Interactive visualization dashboards
 
 ---
+### 🔹Image Processing API
+A simple and efficient Node.js + Express + TypeScript API for resizing images on demand using Sharp 
 
+## 🚀 Features
+
+* 📏 Resize images on the fly
+* ⚡ Cache resized images for better performance
+* ✅ Validate missing or invalid query parameters
+* 🧪 Automated testing with **Jasmine** and **Supertest**
+* 🗂️ Organized project structure using **TypeScript**
+---
 ### 🔹 Maqal Panorama – Backend Application
 A Palestinian digital publishing platform built using:
 - Django
@@ -72,7 +82,7 @@ A Palestinian digital publishing platform built using:
 - Bootstrap
 - HTML Templates
 
-Features:
+## 🚀 Features:
 - Article publishing system
 - Multi-category content management
 - Full backend architecture
@@ -84,7 +94,7 @@ Movie web application built using:
 - React.js
 - TMDB API
 
-Features:
+## 🚀 Features:
 - Search for movies
 - Browse Now Playing movies
 - Browse Upcoming movies
