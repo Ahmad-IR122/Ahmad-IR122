@@ -2,7 +2,7 @@
 
 🎓 Software Engineering Student at An-Najah National University  
 💻 Full-Stack Developer | Data Engineering Enthusiast  
-📍 Nablus, Palestine  
+📍 Jenin, Palestine  
 
 ---
 
