@@ -16,38 +16,46 @@ I have hands-on experience with frontend and backend development, as well as dat
 
 ## 🛠️ Technical Skills
 
-### 💻 Programming Languages
-- Java
-- C++
-- JavaScript
-- Python
-- Scala
-- HTML & CSS
 
-### ⚙️ Frameworks & Libraries
-- React.js
-- Node.js
-- Django
-- Tailwind CSS
-- Bootstrap
 
-### 🗄️ Databases
-- SQL
-- SQLite
-- PostgreSQL
-- MongoDB
-- Firebase
+###
 
-### 🧰 Tools & Technologies
-- Git & GitHub
-- Postman
-- Apache Spark
-- Apache Kafka
-- Elasticsearch
-- Kibana
-- Hadoop
+<h3 align="left">💻  Programming Languages</h3>
+<div align="left">
+  <p>
+<img src="https://skillicons.dev/icons?i=cpp,java,py,scala,html,css,js" />
+</p
+</div>
 
----
+<hr />
+
+<h3 align="left">⚙️ Frameworks & Libraries</h3>
+<div align="left">
+  <p>
+<img src="https://skillicons.dev/icons?i=react,nodejs,django,jquery,less,sass,bootstrap,tailwind" />
+</p
+</div>
+
+
+
+<hr />
+
+<h3 align="left">🗄️ Databases</h3>
+<div align="left">
+<p>
+<img src="https://skillicons.dev/icons?i=postgres,mysql,sqlite,mongodb,firebase,dynamodb" />
+</p>
+</div>
+<hr />
+
+<h3 align="left">🛠️Tools & Technologies</h3>
+<div align="left">
+<p>
+<img src="https://skillicons.dev/icons?i=git,github,vscode,figma,postman,aws,docker,kafka,stackoverflow,pycharm,idea" />
+</p>
+</div>
+
+<hr/>
 
 ## 📂 Featured Projects
 
