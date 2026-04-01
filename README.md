@@ -32,7 +32,7 @@ I have hands-on experience with frontend and backend development, as well as dat
 <h3 align="left">⚙️ Frameworks & Libraries</h3>
 <div align="left">
   <p>
-<img src="https://skillicons.dev/icons?i=react,nodejs,django,jquery,less,sass,bootstrap,tailwind" />
+<img src="https://skillicons.dev/icons?i=react,nodejs,express,django,jquery,less,sass,bootstrap,tailwind" />
 </p
 </div>
 
