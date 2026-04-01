@@ -51,7 +51,7 @@ I have hands-on experience with frontend and backend development, as well as dat
 <h3 align="left">🛠️Tools & Technologies</h3>
 <div align="left">
 <p>
-<img src="https://skillicons.dev/icons?i=git,github,vscode,figma,postman,aws,docker,kafka,stackoverflow,pycharm,idea" />
+<img src="https://skillicons.dev/icons?i=git,github,vscode,figma,postman,aws,docker,kafka,stackoverflow,pycharm,arduino" />
 </p>
 </div>
 
