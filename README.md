@@ -21,7 +21,7 @@ I have hands-on experience with frontend and backend development, as well as dat
 ###
 
 <h3 align="left">💻  Programming Languages</h3>
-<div align="left">
+<div align="center">
   <p>
 <img src="https://skillicons.dev/icons?i=cpp,java,py,scala,html,css,js" />
 </p
@@ -30,7 +30,7 @@ I have hands-on experience with frontend and backend development, as well as dat
 <hr />
 
 <h3 align="left">⚙️ Frameworks & Libraries</h3>
-<div align="left">
+<div align="center">
   <p>
 <img src="https://skillicons.dev/icons?i=react,nodejs,express,django,jquery,less,sass,bootstrap,tailwind" />
 </p
@@ -41,7 +41,7 @@ I have hands-on experience with frontend and backend development, as well as dat
 <hr />
 
 <h3 align="left">🗄️ Databases</h3>
-<div align="left">
+<div align="center">
 <p>
 <img src="https://skillicons.dev/icons?i=postgres,mysql,sqlite,mongodb,firebase,dynamodb" />
 </p>
@@ -49,7 +49,7 @@ I have hands-on experience with frontend and backend development, as well as dat
 <hr />
 
 <h3 align="left">🛠️Tools & Technologies</h3>
-<div align="left">
+<div align="center">
 <p>
 <img src="https://skillicons.dev/icons?i=git,github,vscode,figma,postman,aws,docker,kafka,stackoverflow,pycharm,arduino" />
 </p>
