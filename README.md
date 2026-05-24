@@ -86,18 +86,37 @@ Movie web application built using:
 ---
 
 ### 🔹 Phoneix Express
-Project details coming soon.
+full-stack delivery management platform built with PostgreSQL, Express, React, and Node.js.  
+It supports multi-role workflows (customer/company, employee, and admin), shipment tracking, delivery operations, settlements/wallet flows, content management, newsletters, support chat, and notifications.
 
 **🚀 Features:**
-- Coming soon
+- 🔐 Authentication (register/login/change password/forgot password with code)
+- 👥 Multi-role support: `admin`, `employee`, `customer`, `company`
+- 📦 Order creation and shipment lifecycle handling
+- 📍 Tracking lookup by tracking number (authenticated)
+- 🧾 Employee dashboard (orders, profile, documents, wallet/withdrawals)
+- 🛠️ Admin dashboard modules (delegates, parcel distribution, returned shipments, reports, handover requests)
+- 💬 Support chat (customer-employee conversation flow)
+- 📰 Newsletter subscribe/send flow
+- 🔔 Role-based notifications with unread counters and read actions
+- 🖼️ Article/blog and photo gallery content management
+- 📱 QR generation endpoint for tracking links
 
 ---
 
 ### 🔹 Fireplay
-Project details coming soon.
+FairPlay Cloud is an anti-cheat moderation dashboard concept for gaming communities.
+It focuses on reviewing player reports, tracking suspicious patterns, managing incident status, and helping moderators make better decisions.
 
 **🚀 Features:**
-- Coming soon
+- Player risk scoring
+- Incident tracking
+- Evidence upload workflow
+- Admin dashboard
+- Audit logs
+- Status management
+- Cloud-based backend
+- Security-aware structure
 
 ---
 
