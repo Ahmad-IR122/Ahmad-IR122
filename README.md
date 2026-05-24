@@ -85,6 +85,22 @@ Movie web application built using:
 
 ---
 
+### 🔹 Phoneix Express
+Project details coming soon.
+
+**🚀 Features:**
+- Coming soon
+
+---
+
+### 🔹 Fireplay
+Project details coming soon.
+
+**🚀 Features:**
+- Coming soon
+
+---
+
 ## 💼 Professional Experience
 
 ### Frontend Developer – ITG Software, Inc.
