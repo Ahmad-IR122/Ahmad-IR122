@@ -1,16 +1,16 @@
-# Hi, I'm Ahmad Irshaid 👋
+<div align="center">
+<img src="https://capsule-render.vercel.app/api?type=waving&height=260&color=0:4C1D95,50:6D28D9,100:2563EB&text=Ahmad%20Irshaid&fontColor=FFFFFF&fontSize=55&fontAlignY=40&desc=Software%20Engineer%20%7C%20Full%20Stack%20Engineer&descAlignY=60"/>
+<img src="https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=28&duration=3500&pause=1000&color=8B5CF6&center=true&vCenter=true&width=1000&lines=Software+Engineering+Student;Full+Stack+Engineer;Backend+and+Building+Scalable+Digital+Products"/>
 
-🎓 Software Engineering Student at An-Najah National University  
-💻 Full-Stack Developer | Data Engineering Enthusiast  
-📍 Jenin, Palestine
-
----
+</div>
 
 ## 🚀 About Me
 
-I am a passionate Software Engineering student with strong experience in full-stack development and modern web technologies. I enjoy building scalable applications, working with data pipelines, and creating impactful software solutions that solve real-world problems.
+Software Engineering student at An-Najah National University with strong interests in full stack development, distributed systems, and product engineering.
 
-I have hands-on experience with frontend and backend development, as well as data engineering tools like Apache Spark and Kafka.
+I build scalable applications across web platforms using modern frontend and backend technologies. My experience includes React, Node.js, Express, PostgreSQL, Django, and API development.
+
+I enjoy solving engineering problems through clean architecture, automation, performance optimization, and user-focused product design. My academic background includes software engineering, artificial intelligence, big data engineering, cloud computing, software testing, networking, and operating systems.
 
 ---
 
