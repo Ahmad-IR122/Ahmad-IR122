@@ -17,7 +17,7 @@ I enjoy solving engineering problems through clean architecture, automation, per
 ## 🛠️ Technical Skills
 
 ### 💻 Programming Languages
-![Programming Languages](https://skillicons.dev/icons?i=cpp,java,py,scala,html,css,js)
+![Programming Languages](https://skillicons.dev/icons?i=cpp,java,py,scala,html,css,js,ts)
 
 ### ⚙️ Frameworks & Libraries
 ![Frameworks and Libraries](https://skillicons.dev/icons?i=react,nodejs,express,django,jquery,less,sass,bootstrap,tailwind)
