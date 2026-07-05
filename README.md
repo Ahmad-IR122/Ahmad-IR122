@@ -20,7 +20,7 @@ I enjoy solving engineering problems through clean architecture, automation, per
 ![Programming Languages](https://skillicons.dev/icons?i=cpp,java,py,scala,html,css,js,ts)
 
 ### ⚙️ Frameworks & Libraries
-![Frameworks and Libraries](https://skillicons.dev/icons?i=react,nodejs,express,django,jquery,less,sass,bootstrap,tailwind)
+![Frameworks and Libraries](https://skillicons.dev/icons?i=react,nodejs,express,django,jquery,less,sass,bootstrap,tailwind,flask)
 
 ### 🗄️ Databases
 ![Databases](https://skillicons.dev/icons?i=postgres,mysql,sqlite,mongodb,firebase,dynamodb)
