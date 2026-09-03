@@ -1,6 +1,6 @@
 <div align="center">
 <img src="https://capsule-render.vercel.app/api?type=waving&height=260&color=0:4C1D95,50:6D28D9,100:2563EB&text=Ahmad%20Irshaid&fontColor=FFFFFF&fontSize=55&fontAlignY=40&desc=Software%20Engineer%20%7C%20Full%20Stack%20Engineer&descAlignY=60"/>
-<img src="https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=28&duration=3500&pause=1000&color=8B5CF6&center=true&vCenter=true&width=1000&lines=Software+Engineering+Student;Full+Stack+Engineer;Backend+and+Building+Scalable+Digital+Products"/>
+<img src="https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=28&duration=3500&pause=1000&color=8B5CF6&center=true&vCenter=true&width=1000&lines=Ai+Software+Engineering+Student;Full+Stack+Engineer;Backend+and+Building+Scalable+Digital+Products"/>
 
 </div>
 
