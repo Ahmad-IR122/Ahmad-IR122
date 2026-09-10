@@ -26,7 +26,7 @@ I enjoy solving engineering problems through clean architecture, automation, per
 ![Databases](https://skillicons.dev/icons?i=postgres,mysql,sqlite,mongodb,firebase,dynamodb)
 
 ### 🛠️ Tools & Technologies
-![Tools and Technologies](https://skillicons.dev/icons?i=git,github,vscode,figma,postman,aws,docker,kafka,stackoverflow,pycharm,arduino)
+![Tools and Technologies](https://skillicons.dev/icons?i=git,github,vscode,figma,postman,aws,docker,kafka,stackoverflow,pycharm,arduino,azure,notion)
 
 ---
 ## 📫 Contact Me
