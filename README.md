@@ -6,7 +6,7 @@
 
 ## 🚀 About Me
 
-Software Engineering student at An-Najah National University with strong interests in full stack development, distributed systems, and product engineering.
+Software Engineering graduate from An-Najah National University with strong interests in full stack development, distributed systems, and product engineering.
 
 I build scalable applications across web platforms using modern frontend and backend technologies. My experience includes React, Node.js, Express, PostgreSQL, Django, and API development.
 
