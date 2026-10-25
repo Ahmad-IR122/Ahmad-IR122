@@ -4,7 +4,7 @@
 
 </div>
 
-## 🚀 About Me
+##  About Me
 
 Software Engineering graduate from An-Najah National University with strong interests in full stack development, distributed systems, and product engineering.
 
@@ -29,11 +29,11 @@ I enjoy solving engineering problems through clean architecture, automation, per
 ![Tools and Technologies](https://skillicons.dev/icons?i=git,github,vscode,figma,postman,aws,docker,kafka,stackoverflow,pycharm,arduino,azure,notion,githubactions)
 
 ---
-## 📫 Contact Me
+##  Contact Me
 
-- 📧 Email: [irsheidahmad094@gmail.com](mailto:irsheidahmad094@gmail.com)
-- 💼 LinkedIn: [linkedin.com/in/ahmadikirshaid](https://www.linkedin.com/in/ahmadikirshaid/)
-- 🐙 GitHub: [github.com/Ahmad-IR122](https://github.com/Ahmad-IR122)
-- 🌐 Portfolio: [ahmad-irshaid-portfolio.netlify.app](https://ahmad-irshaid-portfolio.netlify.app)
+-  Email: [irsheidahmad094@gmail.com](mailto:irsheidahmad094@gmail.com)
+-  LinkedIn: [linkedin.com/in/ahmadikirshaid](https://www.linkedin.com/in/ahmadikirshaid/)
+-  GitHub: [github.com/Ahmad-IR122](https://github.com/Ahmad-IR122)
+-  Portfolio: [ahmad-irshaid-portfolio.netlify.app](https://ahmad-irshaid-portfolio.netlify.app)
 
 
